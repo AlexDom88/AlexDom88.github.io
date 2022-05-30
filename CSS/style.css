@@ -1,0 +1,351 @@
+.header {
+width: 100%;
+height: 105px;
+}
+
+.header_box {
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    width: 411px;
+    height: 65px;
+    margin: 0 auto;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: normal;
+    color: #0bbbd3;
+    padding: 10px 10px 10px 10px;
+}
+ #With {
+     color:black;
+ }
+.container {
+    
+     background-image: url("../images/church.jpg");
+     height: 852px;
+     display:flex;
+     margin: 0 auto;
+     background-repeat:no-repeat;
+     width: 1440px;
+ }
+ .txt {
+     font-size: 64px;
+     font-weight: 700;
+     color:white;
+     padding-left: 100px;
+     display: flex;
+     margin: 0 auto;
+     align-items:center;
+
+ }
+ .flag {
+ background-image: url(../images/yb.png);
+ width: 24px;
+ height: 388px;
+ margin:218px 0px 246px 80px;
+ }
+ .inform {
+     font-size: 48px;
+     font-weight: 700;
+     padding-left: 76px;
+     margin-top: 130px;
+     
+ }
+ .blue_line_inform {
+    border-bottom: solid 5px #33B8F1;
+    width: 361px;
+    margin-left: 60px;
+    margin-top: 16px;
+    margin-bottom: 140px;
+ }
+  main {
+     width: 1440px;
+     margin: 0 auto;
+     
+ }
+
+ .flex_box {
+     display:flex;
+     margin: 10px 80px 10px 80px;
+     width: 1280px;
+ }
+ .box_1 {
+     width: 33%;
+     height: 480px;
+     margin: 10px 10px 10px 10px;
+    
+ }
+ .box_image_1 {
+     width: 75%;
+ }
+ .box_content_1 {
+     font-size: 36px;
+     font-weight: 700;
+     text-align: center;
+     text-decoration: none;
+     color: #000;
+     cursor:pointer;
+ }
+ .box_txt_1 {
+     font-size: 32px;
+     font-weight: 400;
+ }
+ .box_2 {
+    width: 33%;
+    height: 480px;
+    margin: 10px 10px 10px 10px;
+}
+.box_image_2 {
+    width: 75%;
+}
+.box_txt_2 {
+    font-size: 48px;
+    
+}
+
+
+.box_3 {
+    width: 33%;
+    height: 480px;
+    margin: 10px 10px 10px 10px;
+}
+.box_image_3 {
+    width: 75%;
+}
+.box_txt_3 {
+    font-size: 48px;
+    
+}
+.ukr{
+    text-align: center;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.blue_line_ukr{
+    border-bottom: solid 5px #33B8F1;
+    width: 361px;
+    margin: 0 auto; 
+    margin-top: 16px; 
+}
+
+.heart{
+    display: block;
+    text-align: center;
+}
+
+.heart img{
+	width: 50%;
+	height: 100%;
+}
+
+button{
+    margin: 0 auto;
+    display: block;
+    height: 74px;
+    width: 430px;
+    background-color: #0BBBD3;
+    color: white;
+    font-size: 48px;
+    font-family: inter;
+    border: none;
+}
+.footer{
+   height: 405px;
+   background-color: blue;
+   margin-top: 176px;
+   width: auto;
+}
+
+.footer_txt{
+	text-align: center;
+	font-size: 64px;
+	color: #0BBBD3;
+	height: 86px;
+	width: 548px;
+	margin: auto;
+	padding-top: 49px;
+}
+
+.footer_span{
+	color: white;
+}
+.footer__contacts{
+    display: block;
+    text-align: center;
+	color: black;
+	font-size: 32px;
+	margin-top: 25px;
+	margin-bottom: 0;
+}
+.footer_icons{
+    text-align: center;
+	margin: 50px auto 0;
+	width: 500px;
+	height: 100px;
+    display: flex;
+}
+.icons {
+    height: 64px;
+	width: 64px;
+	border-radius: 50%;
+	background-color: #0931BF;
+    margin-left: 40px;
+}
+.icon{
+    margin: 10px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
